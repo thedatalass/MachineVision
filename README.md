@@ -6,3 +6,4 @@ Exploring the world of machine vision with agricultural applications
 | 1. Crop Yield
 | 2. Weed Detection
 | 3. Pesticide Appication
+| 4. Food safety inspection
